@@ -122,5 +122,5 @@ Author
 Dipika Mishra
 AICTE × Edunet Foundation Virtual Internship — Artificial Intelligence
 
-LinkedIn: (Add your LinkedIn)
+LinkedIn:(https://www.linkedin.com/in/dipika-mishra-24339625a/)
 GitHub:(https://github.com/Dipika1226)
