@@ -3,5 +3,7 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-imblearn
 joblib
+flask
+streamlit
+requests
